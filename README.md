@@ -27,6 +27,15 @@
 - Create advanced visualizations such as waffle charts, word clouds, regression plots, maps with markers, & choropleth maps
 - Generate interactive dashboards containing scatter, line, bar, bubble, pie, and sunburst charts using the Dash framework and Plotly library
 
+## Machine Learning with Python
+
+### What you'll learn
+
+- Describe the various types of Machine Learning algorithms and when to use them  
+- Compare and contrast linear classification methods including multiclass prediction, support vector machines, and logistic regression  
+- Write Python code that implements various classification techniques including K-Nearest neighbors (KNN), decision trees, and regression trees 
+- Evaluate the results from simple linear, non-linear, and multiple regression on a data set using evaluation metrics   
+
 
 
 
