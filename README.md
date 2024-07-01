@@ -1,7 +1,8 @@
 # IBM-Data-Science-Professional-Certificate
 
 ## Python for Data Science AI Development
-What you'll learn
+
+### What you'll learn
 
 - Learn Python - the most popular programming language and for Data Science and Software Development.
 - Apply Python programming logic Variables, Data Structures, Branching, Loops, Functions, Objects & Classes.
