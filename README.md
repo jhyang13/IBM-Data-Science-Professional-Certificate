@@ -4,19 +4,19 @@
 
 ### What you'll learn
 
-- Learn Python - the most popular programming language and for Data Science and Software Development.
-- Apply Python programming logic Variables, Data Structures, Branching, Loops, Functions, Objects & Classes.
-- Demonstrate proficiency in using Python libraries such as Pandas & Numpy, and developing code using Jupyter Notebooks.
-- Access and web scrape data using APIs and Python libraries like Beautiful Soup. 
+- Learn Python - the most popular programming language and for Data Science and Software Development
+- Apply Python programming logic Variables, Data Structures, Branching, Loops, Functions, Objects & Classes
+- Demonstrate proficiency in using Python libraries such as Pandas & Numpy, and developing code using Jupyter Notebooks
+- Access and web scrape data using APIs and Python libraries like Beautiful Soup
 
 ## Python Project for Data Science
 
 ### What you'll learn
 
-- Play the role of a Data Scientist / Data Analyst working on a real project.
-- Demonstrate your Skills in Python - the language of choice for Data Science and Data Analysis. 
-- Apply Python fundamentals, Python data structures, and working with data in Python.
-- Build a dashboard using Python and libraries like Pandas, Beautiful Soup and Plotly using Jupyter notebook.
+- Play the role of a Data Scientist / Data Analyst working on a real project
+- Demonstrate your Skills in Python - the language of choice for Data Science and Data Analysis
+- Apply Python fundamentals, Python data structures, and working with data in Python
+- Build a dashboard using Python and libraries like Pandas, Beautiful Soup and Plotly using Jupyter notebook
 
 ## Data Visualization with Python
 
@@ -35,6 +35,16 @@
 - Compare and contrast linear classification methods including multiclass prediction, support vector machines, and logistic regression  
 - Write Python code that implements various classification techniques including K-Nearest neighbors (KNN), decision trees, and regression trees 
 - Evaluate the results from simple linear, non-linear, and multiple regression on a data set using evaluation metrics   
+
+## Data Analysis with Python
+
+### What you'll learn
+
+- Master the most up-to-date practical skills and knowledge that data scientists use in their daily roles
+- Learn the tools, languages, and libraries used by professional data scientists, including Python and SQL
+- Import and clean data sets, analyze and visualize data, and build machine learning models and pipelines
+- Apply your new skills to real-world projects and build a portfolio of data projects that showcase your proficiency to employers
+
 
 
 
