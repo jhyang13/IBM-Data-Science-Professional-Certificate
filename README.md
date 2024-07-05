@@ -18,6 +18,15 @@
 - Apply Python fundamentals, Python data structures, and working with data in Python
 - Build a dashboard using Python and libraries like Pandas, Beautiful Soup and Plotly using Jupyter notebook
 
+## Data Analysis with Python
+
+### What you'll learn
+
+- Master the most up-to-date practical skills and knowledge that data scientists use in their daily roles
+- Learn the tools, languages, and libraries used by professional data scientists, including Python and SQL
+- Import and clean data sets, analyze and visualize data, and build machine learning models and pipelines
+- Apply your new skills to real-world projects and build a portfolio of data projects that showcase your proficiency to employers
+
 ## Data Visualization with Python
 
 ### What you'll learn
@@ -36,16 +45,14 @@
 - Write Python code that implements various classification techniques including K-Nearest neighbors (KNN), decision trees, and regression trees 
 - Evaluate the results from simple linear, non-linear, and multiple regression on a data set using evaluation metrics   
 
-## Data Analysis with Python
+## Applied Data Science Capstone
 
 ### What you'll learn
 
-- Master the most up-to-date practical skills and knowledge that data scientists use in their daily roles
-- Learn the tools, languages, and libraries used by professional data scientists, including Python and SQL
-- Import and clean data sets, analyze and visualize data, and build machine learning models and pipelines
-- Apply your new skills to real-world projects and build a portfolio of data projects that showcase your proficiency to employers
-
-
+- Demonstrate proficiency in data science and machine learning techniques using a real-world data set and prepare a report for stakeholders   
+- Apply your skills to perform data collection, data wrangling, exploratory data analysis, data visualization model development, and model evaluation
+- Write Python code to create machine learning models including support vector machines, decision tree classifiers, and k-nearest neighbors  
+- Evaluate the results of machine learning models for predictive analysis, compare their strengths and weaknesses and identify the optimal model   
 
 
 
