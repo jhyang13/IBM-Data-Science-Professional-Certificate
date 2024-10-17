@@ -46,6 +46,8 @@
 
 ## Data Analysis with Python
 
+![image](https://github.com/user-attachments/assets/60f4593d-7dd6-4274-be04-baed5d9bcf7d)
+
 ### What you'll learn
 
 - Master the most up-to-date practical skills and knowledge that data scientists use in their daily roles
@@ -53,7 +55,16 @@
 - Import and clean data sets, analyze and visualize data, and build machine learning models and pipelines
 - Apply your new skills to real-world projects and build a portfolio of data projects that showcase your proficiency to employers
 
+### Skills you'll gain
+- Model Selection
+- Data Analysis
+- Python Programming
+- Data Visualization
+- Predictive Modelling
+
 ## Data Visualization with Python
+
+![image](https://github.com/user-attachments/assets/87f9d73b-dd43-4cf9-8885-ce25ac0a4d55)
 
 ### What you'll learn
 
@@ -61,6 +72,13 @@
 - Create different types of charts and plots such as line, area, histograms, bar, pie, box, scatter, and bubble
 - Create advanced visualizations such as waffle charts, word clouds, regression plots, maps with markers, & choropleth maps
 - Generate interactive dashboards containing scatter, line, bar, bubble, pie, and sunburst charts using the Dash framework and Plotly library
+
+### Skills you'll gain
+- Python Programming
+- Dashboards and Charts
+- dash
+- Data Visualization
+- Matplotlib
 
 ## Machine Learning with Python
 
