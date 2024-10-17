@@ -1,6 +1,16 @@
 # IBM-Data-Science-Professional-Certificate
 
-## Python for Data Science AI Development
+![image](https://github.com/user-attachments/assets/d5de5618-97d8-4492-8e23-02d6e3d2134f)
+
+### What you'll learn
+- Master the most up-to-date practical skills and knowledge that data scientists use in their daily roles
+- Learn the tools, languages, and libraries used by professional data scientists, including Python and SQL
+- Import and clean data sets, analyze and visualize data, and build machine learning models and pipelines
+- Apply your new skills to real-world projects and build a portfolio of data projects that showcase your proficiency to employers
+
+## Python for Data Science, AI & Development
+
+![image](https://github.com/user-attachments/assets/b31da048-dc01-4637-adee-fe8d39ec2c24)
 
 ### What you'll learn
 
@@ -8,6 +18,13 @@
 - Apply Python programming logic Variables, Data Structures, Branching, Loops, Functions, Objects & Classes
 - Demonstrate proficiency in using Python libraries such as Pandas & Numpy, and developing code using Jupyter Notebooks
 - Access and web scrape data using APIs and Python libraries like Beautiful Soup
+
+### Skills you'll gain
+- Data Science
+- Data Analysis
+- Python Programming
+- Numpy
+- Pandas
 
 ## Python Project for Data Science
 
