@@ -30,6 +30,8 @@
 
 ![image](https://github.com/user-attachments/assets/ba2a86a5-aba1-4a17-80b8-13c224834648)
 
+**Link:** https://www.coursera.org/learn/python-project-for-data-science?specialization=ibm-data-science
+
 ### What you'll learn
 
 - Play the role of a Data Scientist / Data Analyst working on a real project
@@ -43,6 +45,15 @@
 - Python Programming
 - Pandas
 - Jupyter notebooks
+
+### There is 1 module in this course
+This mini-course is intended to for you to demonstrate foundational Python skills for working with data. This course primarily involves completing a project in which you will assume the role of a Data Scientist or a Data Analyst and be provided with a real-world data set and a real-world inspired scenario to identify patterns and trends. 
+
+You will perform specific data science and data analytics tasks such as extracting data, web scraping, visualizing data and creating a dashboard. This project will showcase your proficiency with Python and using libraries such as Pandas and Beautiful Soup within a Jupyter Notebook. Upon completion you will have an impressive project to add to your job portfolio.   
+
+PRE-REQUISITE: **Python for Data Science, AI and Development** course from IBM is a pre-requisite for this project course. Please ensure that before taking this course you have either completed the Python for Data Science, AI and Development course from IBM or have equivalent proficiency in working with Python and data.  
+
+NOTE: This course is not intended to teach you Python and does not have too much instructional content. It is intended for you to apply prior Python knowledge.
 
 ## Data Analysis with Python
 
