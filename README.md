@@ -2,7 +2,9 @@
 
 ![image](https://github.com/user-attachments/assets/d5de5618-97d8-4492-8e23-02d6e3d2134f)
 
-**Link:** https://www.coursera.org/professional-certificates/ibm-data-science
+**Course Link:** https://www.coursera.org/professional-certificates/ibm-data-science
+
+**Certification Link:** https://www.coursera.org/account/accomplishments/specialization/VWPLMPSG6EZW
 
 ### What you'll learn
 - Master the most up-to-date practical skills and knowledge that data scientists use in their daily roles
@@ -43,7 +45,7 @@ Projects you’ll complete:
 
 ![image](https://github.com/user-attachments/assets/b31da048-dc01-4637-adee-fe8d39ec2c24)
 
-**Link:** https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=ibm-data-science
+**Course Link:** https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=ibm-data-science
 
 ### What you'll learn
 
@@ -72,7 +74,7 @@ This course is suitable for anyone who wants to learn Data Science, Data Analyti
 
 ![image](https://github.com/user-attachments/assets/ba2a86a5-aba1-4a17-80b8-13c224834648)
 
-**Link:** https://www.coursera.org/learn/python-project-for-data-science?specialization=ibm-data-science
+**Course Link:** https://www.coursera.org/learn/python-project-for-data-science?specialization=ibm-data-science
 
 ### What you'll learn
 
@@ -101,7 +103,7 @@ NOTE: This course is not intended to teach you Python and does not have too much
 
 ![image](https://github.com/user-attachments/assets/60f4593d-7dd6-4274-be04-baed5d9bcf7d)
 
-**Link:** https://www.coursera.org/learn/data-analysis-with-python?specialization=ibm-data-science
+**Course Link:** https://www.coursera.org/learn/data-analysis-with-python?specialization=ibm-data-science
 
 ### What you'll learn
 
@@ -139,7 +141,7 @@ If you choose to take this course and earn the Coursera course certificate, you 
 
 ![image](https://github.com/user-attachments/assets/87f9d73b-dd43-4cf9-8885-ce25ac0a4d55)
 
-**Link:** https://www.coursera.org/learn/python-for-data-visualization?specialization=ibm-data-science
+**Course Link:** https://www.coursera.org/learn/python-for-data-visualization?specialization=ibm-data-science
 
 ### What you'll learn
 
@@ -167,7 +169,7 @@ You will learn hands-on by completing numerous labs and a final project to pract
 
 ![image](https://github.com/user-attachments/assets/b20f4f0c-ceaa-4da5-b788-47bd516fb749)
 
-**Link:** https://www.coursera.org/learn/machine-learning-with-python?specialization=ibm-data-science
+**Course Link:** https://www.coursera.org/learn/machine-learning-with-python?specialization=ibm-data-science
 
 ### What you'll learn
 
@@ -198,7 +200,7 @@ By the end of this course, you will have job ready skills to add to your resume 
 
 ![image](https://github.com/user-attachments/assets/4be12ea7-b2c8-4293-ab71-76470275830f)
 
-**Link:** https://www.coursera.org/learn/applied-data-science-capstone?specialization=ibm-data-science
+**Course Link:** https://www.coursera.org/learn/applied-data-science-capstone?specialization=ibm-data-science
 
 ### What you'll learn
 
