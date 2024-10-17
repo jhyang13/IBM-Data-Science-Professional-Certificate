@@ -84,6 +84,8 @@
 
 ![image](https://github.com/user-attachments/assets/b20f4f0c-ceaa-4da5-b788-47bd516fb749)
 
+**Link:** 
+
 ### What you'll learn
 
 - Describe the various types of Machine Learning algorithms and when to use them  
@@ -102,6 +104,8 @@ Skills you'll gain
 
 ![image](https://github.com/user-attachments/assets/4be12ea7-b2c8-4293-ab71-76470275830f)
 
+**Link:** https://www.coursera.org/learn/applied-data-science-capstone?specialization=ibm-data-science
+
 ### What you'll learn
 
 - Demonstrate proficiency in data science and machine learning techniques using a real-world data set and prepare a report for stakeholders   
@@ -116,3 +120,10 @@ Skills you'll gain
 - Methodology
 - Data Science Methodology
 
+This is the final course in the IBM Data Science Professional Certificate as well as the Applied Data Science with Python Specialization. This capstone project course will give you the chance to practice the work that data scientists do in real life when working with datasets.  
+
+In this course you will assume the role of a Data Scientist working for a startup intending to compete with SpaceX, and in the process follow the Data Science methodology involving data collection, data wrangling, exploratory data analysis, data visualization, model development, model evaluation, and reporting your results to stakeholders.  
+
+You will be tasked with predicting if the first stage of the SpaceX Falcon 9 rocket will land successfully. With the help of your Data Science findings and models, the competing startup you have been hired by can make more informed bids against SpaceX for a rocket launch.  
+
+In this course, there will not be much new learning, instead you’ll focus on hands-on work to demonstrate and apply what you have learnt in previous courses.  By successfully completing this Capstone you will have added a project to your data science and machine learning portfolio to showcase to employers.
