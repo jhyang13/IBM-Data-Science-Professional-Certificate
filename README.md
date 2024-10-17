@@ -82,6 +82,8 @@
 
 ## Machine Learning with Python
 
+![image](https://github.com/user-attachments/assets/b20f4f0c-ceaa-4da5-b788-47bd516fb749)
+
 ### What you'll learn
 
 - Describe the various types of Machine Learning algorithms and when to use them  
@@ -89,7 +91,16 @@
 - Write Python code that implements various classification techniques including K-Nearest neighbors (KNN), decision trees, and regression trees 
 - Evaluate the results from simple linear, non-linear, and multiple regression on a data set using evaluation metrics   
 
+Skills you'll gain
+- Machine Learning
+- regression
+- Hierarchical Clustering
+- classification
+- SciPy and scikit-learn
+
 ## Applied Data Science Capstone
+
+![image](https://github.com/user-attachments/assets/4be12ea7-b2c8-4293-ab71-76470275830f)
 
 ### What you'll learn
 
@@ -98,5 +109,10 @@
 - Write Python code to create machine learning models including support vector machines, decision tree classifiers, and k-nearest neighbors  
 - Evaluate the results of machine learning models for predictive analysis, compare their strengths and weaknesses and identify the optimal model   
 
-
+### Skills you'll gain
+- Github
+- Jupyter Notebook
+- K-Means Clustering
+- Methodology
+- Data Science Methodology
 
